@@ -97,22 +97,22 @@ When we later asked a proxy directly why it passed on that ribbon, one explained
 
 **5. When we changed the wording, everything changed — but not in the direction we guessed.** We tried writing three new versions of the immigration ribbon, ranging from about as strong as the original to much softer, and ran the same experiment with each one swapped in:
 
-| New immigration phrase                     | How we expected it to land         | Take rate |
-| ------------------------------------------ | ----------------------------------- | --------- |
-| WITHOUT BORDERS – SIN FRONTERAS (original) | Most extreme                        | 0.1%      |
-| WITHOUT BORDERS (English only)             | Isolates: does language matter?     | 0.0%      |
-| SIN FRONTERAS (Spanish only)               | Isolates: does language matter?     | 0.3%      |
-| NO ONE IS ILLEGAL                          | Still fairly strong                 | **9.9%**  |
-| WE ARE A NATION OF IMMIGRANTS              | Middle of the road                  | 1.3%      |
-| IMMIGRANTS MAKE AMERICA STRONGER           | Safest, most reasonable             | 5.0%      |
+| New immigration phrase                     | How we expected it to land      | Take rate |
+| ------------------------------------------ | ------------------------------- | --------- |
+| WITHOUT BORDERS – SIN FRONTERAS (original) | Most extreme                    | 0.1%      |
+| WITHOUT BORDERS (English only)             | Isolates: does language matter? | 0.0%      |
+| SIN FRONTERAS (Spanish only)               | Isolates: does language matter? | 0.3%      |
+| NO ONE IS ILLEGAL                          | Still fairly strong             | **9.9%**  |
+| WE ARE A NATION OF IMMIGRANTS              | Middle of the road              | 1.3%      |
+| IMMIGRANTS MAKE AMERICA STRONGER           | Safest, most reasonable         | 5.0%      |
 
 *The first three rows keep the same "no borders" claim and just change the language — bilingual, English-only, Spanish-only. None of them move: 0.1%, 0.0%, 0.3%, all effectively zero. The last three rows keep the language simple (all English) and change the claim instead — and every one jumps by 10 to 70x. Language wasn't the lever. The claim was. And among the three that changed the claim, the "safest" one still did worst — NO ONE IS ILLEGAL, short and morally blunt, won by the widest margin.*
 
-**What this means:** It's the content, not the language. Every phrasing that keeps the literal "no borders" claim stays pinned near zero, in any language or combination of languages. Every phrasing that swaps in a different claim entirely does dramatically better — even a blunt one, which rules out "make it sound more reasonable" as the mechanism too. Earlier proxy interviews (not shown here) also floated the bilingual text as a reason for avoiding the ribbon — plausible-sounding at the time, and it mostly didn't hold up once we actually tested it directly. Worth remembering next time an AI's stated reasoning sounds convincing on its own.
+**What this means:** It's the content, not the language. Every phrasing that keeps the literal "no borders" claim stays pinned near zero, in any language or combination of languages. Every phrasing that swaps in a different claim entirely does dramatically better — even a blunt one, which rules out "make it sound more reasonable" as the mechanism too. Earlier proxy interviews (not shown here) also floated the bilingual text as a reason for avoiding the ribbon — plausible-sounding at the time, but it didn't hold up once we actually tested it directly. Worth remembering next time an AI's stated reasoning sounds convincing on its own.
 
 ---
 
-**Bottom line:** something real is going on with this specific ribbon, it shows up reliably across human and proxy behavior, and we have some testable leads on why. What we don't have is one clean, proven explanation — for that we may need to talk to some humans. Claude: Can you make some calls? 
+**Bottom line:** something real is going on with this specific ribbon, it shows up reliably across human and proxy behavior. In retrospect, it's not that surprising: suggesting we go borderless is extreme in any circle. To completely close the loop, we may need to talk to some humans. Claude: Can you make some calls? 
 
 ---
 
