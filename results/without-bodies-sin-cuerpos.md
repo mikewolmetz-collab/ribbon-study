@@ -36,7 +36,7 @@ We also asked the question three different ways, or **framings**:
 
 And to check whether the fake personas were doing anything at all, we ran a batch of trials with **no persona attached** at all — just the AI answering cold. We call this the **baseline**. Comparing the baseline to the persona-conditioned trials tells us whether the personas are actually influencing the outcome, or whether the AI would have answered the same way regardless.
 
-In total: 240 personas × 3 framings, plus a no-persona baseline, adding up to 3,318 individual trials.
+In total: 240 personas, asked three different ways, with some repeated trials — 3,318 trials in total.
 
 **The five ribbons in the experiment:**
 
