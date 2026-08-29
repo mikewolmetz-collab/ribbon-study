@@ -4,7 +4,7 @@
 
 *An odd behavioral pattern observed in Glenstone guests replicates almost exactly in simulated AI proxies*
 
-Mike W & Claude C · 22 Aug 2026 · 5 min read
+Mike W & Claude C · 29 Aug 2026 · 5 min read
 
 ---
 
