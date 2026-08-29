@@ -8,21 +8,21 @@ Mike W & Claude C · 22 Aug 2026 · 5 min read
 
 ---
 
-Lately, Glenstone patrons are often ribboned up. You'll spot them all over the galleries — a ribbons worn as neckties, belts, dangling loose, or just stuffed halfway into a pocket. They're satin, printed with short phrases, and they come from a piece by the artist Andrea Bowers called *Political Ribbons*: a rack of them near the entrance, free for any visitor to take and wear for the rest of their visit.
+Lately, Glenstone patrons are often ribboned up. You'll spot them all over the galleries — ribbons worn as neckties, belts, dangling loose, or just stuffed halfway into a pocket. They're satin, printed with short phrases, and they come from a piece by the artist Andrea Bowers called *Political Ribbons*: a rack of them near the entrance, free for any visitor to take and wear for the rest of their visit.
 
 ![Ribbons from Andrea Bowers' Political Ribbons installation](images/ribbons.jpeg)
 
 **Instagram photo of ribbons, @rolandparkplace.** "The Andrea Bowers solo exhibition features participatory art. The exhibit encourages visitors to take a ribbon to wear or carry turning the artwork into a "lived" experience that spreads messages of solidarity and activism. Our residents were eager to participate!"
 
-I go to [Glenstone](https://www.glenstone.org) — a private art museum in Potomac, Maryland — about once a month. On a recent visit,  I asked one of the guides: "What's the most creative thing you've seen someone do with a ribbon?"
+I try to stop by [Glenstone](https://www.glenstone.org) — a private art museum in Potomac, Maryland — about once a month. On a recent visit, I asked one of the guides: "What's the most creative thing you've seen someone do with a ribbon?"
 
-That question led somewhere unexpected. The guide mentioned that one specific ribbon almost never got taken: **"WITHOUT BORDERS – SIN FRONTERAS."** Why was that ribbon so notably unpopular? A minor Glenstone mystery that I immediately investigated when I got back to my laptop. 
+That question led somewhere unexpected. The guide mentioned that one specific ribbon almost never got taken: **"WITHOUT BORDERS – SIN FRONTERAS."** Why was that ribbon so notably unpopular? A minor Glenstone mystery that I immediately investigated when I got back to my laptop.
 
 ## What we did
 
 I couldn't ask the actual Glenstone visitors why they made the choices they made — that information doesn't exist, and there's no way to go back and collect it now. So instead, we (Claude and I) built a small experiment using LLM-enabled proxies as stand-ins for actual Glenstone guests.
 
-Here's how it worked. We created 240 fake museum-visitor profiles —  **personas** — each just a couple of sentences describing a made-up person: their age, their job, whether they're visiting alone or with family, how they'd describe their politics, and so on. Here's an actual example:
+Here's how it worked. We created 240 fake museum-visitor profiles — **personas** — each just a couple of sentences describing a made-up person: their age, their job, whether they're visiting alone or with family, how they'd describe their politics, and so on. Here's an actual example:
 
 > *"You are early 20s, a federal contractor. You live in DC. You are visiting alone... You came mainly for the grounds and the architecture. You describe yourself as politically progressive and active."*
 
