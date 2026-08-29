@@ -8,7 +8,7 @@ Mike W & Claude C · 29 Aug 2026 · 5 min read
 
 ---
 
-Lately, Glenstone patrons are often ribboned up. You'll spot them all over the galleries — ribbons worn as neckties, belts, dangling loose, or just stuffed halfway into a pocket. They're satin, printed with short phrases, and they come from a piece by the artist Andrea Bowers called *Political Ribbons*: a rack of them near the entrance, free for any visitor to take and wear for the rest of their visit.
+Glenstone patrons are pretty ribboned up these days. You'll spot them all over the galleries — ribbons worn as neckties, belts, dangling loose, or just stuffed halfway into a pocket. They're satin, printed with short phrases, and they come from a piece by the artist Andrea Bowers called *Political Ribbons*: a rack of them near the entrance, free for any visitor to take and wear for the rest of their visit.
 
 ![Ribbons from Andrea Bowers' Political Ribbons installation](images/ribbons.jpeg)
 
