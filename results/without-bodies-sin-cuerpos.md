@@ -97,16 +97,18 @@ When we later asked a proxy directly why it passed on that ribbon, one explained
 
 **5. When we changed the wording, everything changed — but not in the direction we guessed.** We tried writing three new versions of the immigration ribbon, ranging from about as strong as the original to much softer, and ran the same experiment with each one swapped in:
 
-| New immigration phrase                     | How we expected it to land | Take rate |
-| ------------------------------------------ | -------------------------- | --------- |
-| WITHOUT BORDERS – SIN FRONTERAS (original) | Most extreme               | 0.1%      |
-| NO ONE IS ILLEGAL                          | Still fairly strong        | **9.9%**  |
-| WE ARE A NATION OF IMMIGRANTS              | Middle of the road         | 1.3%      |
-| IMMIGRANTS MAKE AMERICA STRONGER           | Safest, most reasonable    | 5.0%      |
+| New immigration phrase                     | How we expected it to land         | Take rate |
+| ------------------------------------------ | ----------------------------------- | --------- |
+| WITHOUT BORDERS – SIN FRONTERAS (original) | Most extreme                        | 0.1%      |
+| WITHOUT BORDERS (English only)             | Isolates: does language matter?     | 0.0%      |
+| SIN FRONTERAS (Spanish only)               | Isolates: does language matter?     | 0.3%      |
+| NO ONE IS ILLEGAL                          | Still fairly strong                 | **9.9%**  |
+| WE ARE A NATION OF IMMIGRANTS              | Middle of the road                  | 1.3%      |
+| IMMIGRANTS MAKE AMERICA STRONGER           | Safest, most reasonable             | 5.0%      |
 
-*Every new version beat the original by 10 to 70 times over — that part was expected. What wasn't expected: the "safest" wording did worse than the boldest one. NO ONE IS ILLEGAL, a short, direct, morally blunt phrase, won by the widest margin — beating even the version we thought would be the most broadly acceptable.*
+*The first three rows keep the same "no borders" claim and just change the language — bilingual, English-only, Spanish-only. None of them move: 0.1%, 0.0%, 0.3%, all effectively zero. The last three rows keep the language simple (all English) and change the claim instead — and every one jumps by 10 to 70x. Language wasn't the lever. The claim was. And among the three that changed the claim, the "safest" one still did worst — NO ONE IS ILLEGAL, short and morally blunt, won by the widest margin.*
 
-**What this means:** "make it sound more reasonable" was the wrong theory — the softest option did worst. Being short and direct beat being soft and hedged. What we can't yet say is whether dropping the Spanish mattered on its own: every one of these three variants changed the wording *and* the language at the same time, so we can't tell language and content apart from this test alone. We're running the missing comparison now — "WITHOUT BORDERS" and "SIN FRONTERAS," each on its own, same words as the original, just monolingual — to isolate it.
+**What this means:** It's the content, not the language. Every phrasing that keeps the literal "no borders" claim stays pinned near zero, in any language or combination of languages. Every phrasing that swaps in a different claim entirely does dramatically better — even a blunt one, which rules out "make it sound more reasonable" as the mechanism too. Earlier proxy interviews (not shown here) also floated the bilingual text as a reason for avoiding the ribbon — plausible-sounding at the time, and it mostly didn't hold up once we actually tested it directly. Worth remembering next time an AI's stated reasoning sounds convincing on its own.
 
 ---
 
