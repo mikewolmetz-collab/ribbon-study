@@ -8,9 +8,9 @@ Mike W & Claude C · 22 Aug 2026 · 5 min read
 
 ---
 
-Lately, Glenstone patrons are often ribboned up. You'll spot them all over the galleries — a ribbon tied around a wrist, worn like a belt, dangling loose around a neck, or just stuffed halfway into a pocket. They're satin, printed with short phrases, and they come from a piece by the artist Andrea Bowers called *Political Ribbons*: a rack of them near the entrance, free for any visitor to take and wear for the rest of their visit.
+Lately, Glenstone patrons are often ribboned up. You'll spot them all over the galleries — a ribbons worn as neckties, belts, dangling loose, or just stuffed halfway into a pocket. They're satin, printed with short phrases, and they come from a piece by the artist Andrea Bowers called *Political Ribbons*: a rack of them near the entrance, free for any visitor to take and wear for the rest of their visit.
 
-![[INSERT PICTURE]](/Users/wolmeme1/Downloads/images-4.jpeg)
+![Ribbons from Andrea Bowers' Political Ribbons installation](images/ribbons.jpeg)
 
 **Instagram photo of ribbons, @rolandparkplace.** "The Andrea Bowers solo exhibition features participatory art. The exhibit encourages visitors to take a ribbon to wear or carry turning the artwork into a "lived" experience that spreads messages of solidarity and activism. Our residents were eager to participate!"
 
@@ -110,8 +110,8 @@ When we later asked a proxy directly why it passed on that ribbon, one explained
 
 ---
 
-**So, bottom line:** something real is going on with this specific ribbon, it shows up reliably in AI behavior, and we have some genuinely interesting, testable leads on why. What we don't have is one clean, proven explanation — for that we may need to talk to some humans. Claude: Can you make some calls? 
+**Bottom line:** something real is going on with this specific ribbon, it shows up reliably across human and proxy behavior, and we have some testable leads on why. What we don't have is one clean, proven explanation — for that we may need to talk to some humans. Claude: Can you make some calls? 
 
 ---
 
-*One Useless Thing, by Mike W & Claude C · ribbon selection experiment · personas, trial data, and full methodology in the project repo*
+*One Useless Thing, by Mike W & Claude C · point your agentic coding harness at [github.com/mikewolmetz-collab/ribbon-study](https://github.com/mikewolmetz-collab/ribbon-study) and replicate or extend these experiments*
