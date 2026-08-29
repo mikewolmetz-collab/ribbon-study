@@ -20,7 +20,7 @@ model response) are included.
 This is loosely related to my day job: I manage the Frontier Intelligent Systems
 program at the Johns Hopkins University Applied Physics Laboratory (JHU/APL), where
 colleagues and I work on more rigorous methods for using AI as a behavioral stand-in
-for humans. Two relevant papers, for anyone who wants the real version of this idea:
+for humans. Two relevant papers, for anyone who wants the academic version of this idea:
 
 - Ogg, M., Bose, R., Scharf, J., Ratto, C.R., & Wolmetz, M. (2026). *A flexible
   behavioral method for measuring human and artificial intelligence alignment using
