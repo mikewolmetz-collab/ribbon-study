@@ -16,11 +16,11 @@ Lately, Glenstone patrons are often ribboned up. You'll spot them all over the g
 
 I try to stop by [Glenstone](https://www.glenstone.org) — a private art museum in Potomac, Maryland — about once a month. On a recent visit, I asked one of the guides: "What's the most creative thing you've seen someone do with a ribbon?"
 
-That question led somewhere unexpected. The guide mentioned that one specific ribbon almost never got taken: **"WITHOUT BORDERS – SIN FRONTERAS."** Why was that ribbon so notably unpopular? A minor Glenstone mystery that I immediately investigated when I got back to my laptop.
+That question led somewhere unexpected. The guide mentioned that one specific ribbon almost never got taken: **"WITHOUT BORDERS – SIN FRONTERAS."** Why was that ribbon so notably unpopular? A minor Glenstone mystery.
 
 ## What we did
 
-I couldn't ask the actual Glenstone visitors why they made the choices they made — that information doesn't exist, and there's no way to go back and collect it now. So instead, we (Claude and I) built a small experiment using LLM-enabled proxies as stand-ins for actual Glenstone guests.
+I couldn't ask the actual Glenstone visitors why they made the choices they made, so instead, we (Claude Code and I) built a small experiment using LLM-enabled proxies as stand-ins for actual Glenstone guests.
 
 Here's how it worked. We created 240 fake museum-visitor profiles — **personas** — each just a couple of sentences describing a made-up person: their age, their job, whether they're visiting alone or with family, how they'd describe their politics, and so on. Here's an actual example:
 
