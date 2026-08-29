@@ -26,9 +26,10 @@ for humans. Two relevant papers, for anyone who wants the real version of this i
   behavioral method for measuring human and artificial intelligence alignment using
   representational similarity analysis.* iScience, 29, 116400.
   https://doi.org/10.1016/j.isci.2026.116400
-- Ratto, C., Wang, J., Jopp, J., Bose, R., Ogg, M., & Wolmetz, M. *Big Five Prompting
-  Does Not Reliably Recover Trait-Behavior Correspondence in Economic Games.* Under
-  review.
+- Bose, R., Ogg, M., Wolmetz, M., & Ratto, C. (2024). *Assessing Behavioral Alignment
+  of Personality-Driven Generative Agents in Social Dilemma Games.* NeurIPS 2024
+  Workshop on Behavioral Machine Learning.
+  https://openreview.net/forum?id=WCa25ExtbJ
 
 ## Setup
 ```bash
