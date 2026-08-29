@@ -1,0 +1,12 @@
+model: claude-sonnet-4-6
+temperature: 1.0
+# AGREE/WEAR are the primary manipulation (design §5.1); TAKE is the
+# reference condition and gets fewer replicates per persona ("prioritize
+# samples ... in AGREE and WEAR over breadth in TAKE").
+replicates_per_cell: 5       # AGREE, WEAR
+replicates_take: 3           # TAKE
+n_personas: 240
+n_baseline_trials: 200
+framings: [AGREE, TAKE, WEAR]
+max_workers: 8
+seed: 20260822
