@@ -114,4 +114,4 @@ When we later asked a proxy directly why it passed on that ribbon, one explained
 
 ---
 
-*One Useless Thing, by Mike W & Claude C · point your agentic coding harness at [github.com/mikewolmetz-collab/ribbon-study](https://github.com/mikewolmetz-collab/ribbon-study) and replicate or extend these experiments*
+*One Useless Thing, by Mike W & Claude C · point your coding agent at [github.com/mikewolmetz-collab/ribbon-study](https://github.com/mikewolmetz-collab/ribbon-study) and replicate or extend these experiments*
