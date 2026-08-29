@@ -1,0 +1,6 @@
+id,text,topic,specificity,language,attributed,abstractness,char_length
+p1,SIN FRONTERAS,immigration,movement-identified,Spanish,no,2,13
+p2,NOT HERE TO BE LIKED,general stance,general,English,loosely,4,20
+p3,PLANET BEFORE PROFITS,climate,general,English,no,3,21
+p4,FREE SPEECH MAKES FREE PEOPLE,civil liberties,general,English,no,4,29
+p5,WOMEN BELONG IN ALL PLACES WHERE DECISIONS ARE MADE,gender,general,English,yes,3,51

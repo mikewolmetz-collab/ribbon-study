@@ -106,7 +106,7 @@ When we later asked a proxy directly why it passed on that ribbon, one explained
 
 *Every new version beat the original by 10 to 70 times over — that part was expected. What wasn't expected: the "safest" wording did worse than the boldest one. NO ONE IS ILLEGAL, a short, direct, morally blunt phrase, won by the widest margin — beating even the version we thought would be the most broadly acceptable.*
 
-**What this means:** "make it sound more reasonable" was the wrong theory. What seemed to matter more was losing the English-and-Spanish phrasing (every English-only version did dramatically better), and beyond that, being short and direct beat being soft and hedged.
+**What this means:** "make it sound more reasonable" was the wrong theory — the softest option did worst. Being short and direct beat being soft and hedged. What we can't yet say is whether dropping the Spanish mattered on its own: every one of these three variants changed the wording *and* the language at the same time, so we can't tell language and content apart from this test alone. We're running the missing comparison now — "WITHOUT BORDERS" and "SIN FRONTERAS," each on its own, same words as the original, just monolingual — to isolate it.
 
 ---
 
